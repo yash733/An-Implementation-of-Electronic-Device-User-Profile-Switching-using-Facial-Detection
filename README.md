@@ -1,4 +1,4 @@
 Abstract -- Facial detection technology is being explored for user authentication and access control. A system using facial detection and Siamese neural networks is proposed to manage multiple user profiles on a device. This secure and user-friendly system eliminates traditional authentication methods. The research outlines the system’s components and acknowledges operating system skills challenges. The potential benefits for organizations and users are highlighted. This research aims to contribute to advanced user authentication systems. User feedback and collaboration will drive continuous improvement.
 
 ![4300](https://github.com/yash733/An-Implementation-of-Electronic-Device-User-Profile-Switching-using-Facial-Detection/assets/100533686/86b199d4-2c17-4bbe-b57a-bcf6832d67b5)
-## https://www.linkedin.com/in/yash-gupta09
+ https://www.linkedin.com/in/yash-gupta09
